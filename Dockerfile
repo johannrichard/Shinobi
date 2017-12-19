@@ -1,4 +1,4 @@
-FROM FROM julianbei/alpine-opencv-microimage:latest
+FROM julianbei/alpine-opencv-microimage:latest
 
 # ENV VERSION=v4.8.6 NPM_VERSION=2
 # ENV VERSION=v6.12.1 NPM_VERSION=3
